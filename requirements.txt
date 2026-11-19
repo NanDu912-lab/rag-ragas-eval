@@ -1,0 +1,8 @@
+llama-index-core
+llama-index-embeddings-dashscope
+llama-index-readers-file
+agentscope
+ragas
+datasets
+langchain-community
+python-dotenv

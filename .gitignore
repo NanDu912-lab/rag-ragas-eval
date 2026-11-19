@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+keys.json
+*.jpg
+*.jpeg
+*.png
+*.webp
+knowledge/
+.idea/
+
+# 依赖本地密钥清单文件，不入库
+evaluation/diag_keys.py
